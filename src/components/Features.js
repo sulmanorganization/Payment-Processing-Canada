@@ -9,13 +9,13 @@ class Features extends React.Component {
             <div className="row vertical-content">
                 <div className="col-lg-5">
                     <div className="features-box">
-                        <h3>A digital web design studio creating modern & engaging online experiences</h3>
+                        <h3>From the get-go, you’ll notice that we do things differently.</h3>
                         <p className="text-muted web-desc">Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
                         <ul className="text-muted list-unstyled margin-t-30 features-item-list">
-                            <li className="">We put a lot of effort in design.</li>
-                            <li className="">The most important ingredient of successful website.</li>
-                            <li className="">Sed ut perspiciatis unde omnis iste natus error sit.</li>
-                            <li className="">Submit Your Orgnization.</li>
+                            <li className="">Building Business Together.</li>
+                            <li className="">We help ISOs, ISVs, payfacs and developers.</li>
+                            <li className="">We help merchants thrive in a world of fast-changing payment technologies.</li>
+                            <li className="">Fully Supported.</li>
                         </ul>
                         <Link to="JavaScript:Void(0);" className="btn btn-custom margin-t-30 waves-effect waves-light">Learn More <i className="mdi mdi-arrow-right"></i></Link>
                     </div>

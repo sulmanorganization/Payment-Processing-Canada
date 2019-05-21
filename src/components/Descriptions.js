@@ -9,8 +9,8 @@ class Descriptions extends React.Component {
             <div className="container">
                 <div className="row">
                     <div className="col-lg-12 text-center">
-                        <h2 className="text-white">Build your dream website today</h2>
-                        <p className="padding-t-15 home-desc">But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her.</p>
+                        <h2 className="text-white">Built by entrepreneurs, for entrepreneurs</h2>
+                        <p className="padding-t-15 home-desc">Payment Processing Canada is the first-ever community of payment experts. As a network created to better serve each and every one of our partners, we deliver the best payment assistance and support in the industry. How? We focus on what matters: responsiveness, flexibility, attentiveness, and accountability. With these principles as our foundation, we are pioneering a brand-new partnership experience..</p>
                         <Link to="JavaScript:Void(0);" className="btn btn-bg-white margin-t-30 waves-effect waves-light mb-5">View Plan & Pricing</Link>
                     </div>
                 </div>

@@ -10,7 +10,7 @@ class Pricing extends React.Component {
                 <div className="col-lg-8 offset-lg-2">
                     <h1 className="section-title text-center">Our Pricing</h1>
                     <div className="section-title-border margin-t-20"></div>
-                    <p className="section-subtitle font-secondary text-muted text-center padding-t-30">Call to action pricing table is really crucial to your for your business website. Make your bids stand-out with amazing options.</p>
+                    <p className="section-subtitle font-secondary text-muted text-center padding-t-30">Choose Your Pricing Plan.</p>
                 </div>
             </div>
             <div className="row margin-t-50">

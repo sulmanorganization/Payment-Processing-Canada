@@ -20,7 +20,7 @@ import Aux from './hoc/Aux_';
 class HomeFour extends React.Component {
   render() {
 
- 
+
   	return (
         <Aux>
                 {/* Navbar Component*/}
@@ -33,18 +33,18 @@ class HomeFour extends React.Component {
                             <div className="container">
                                 <div className="row vertical-content">
                                     <div className="col-lg-7 text-white text-left margin-t-30">
-                                        <h1 className="home-title">We help startups launch their products</h1>
-                                        <p className="padding-t-15 home-desc home-subtitle-width-100">Etiam sed.Interdum consequat proin vestibulum className at a euismod mus luctus quam.Lorem ipsum dolor sit amet, consectetur adipisicing eli.</p>
-                                        <Link to="JavaScript:Void(0);" className="btn btn-custom margin-t-30 waves-effect waves-light">Get Started <i className="mdi mdi-arrow-right"></i></Link>
+                                        <h1 className="home-title">PAVING THE WAY TO GREAT PARTNERSHIPS</h1>
+                                        <p className="padding-t-15 home-desc home-subtitle-width-100">Experience a payment technology network where collaboration extends beyond typical boundaries, giving way to bigger and better opportunities.</p>
+                                        <Link to="JavaScript:Void(0);" className="btn btn-custom margin-t-30 waves-effect waves-light">Partnership <i className="mdi mdi-arrow-right"></i></Link>
                                     </div>
                                     <div className="col-lg-4 offset-lg-1 margin-t-30">
                                         <div className="home-registration-form bg-white">
-                                            <h4 className="form-heading text-center mt-2">Get 30 day FREE Trial</h4>
+                                            <h4 className="form-heading text-center mt-2">Contact</h4>
                                             <form className="registration-form" id="registration-form">
                                                 <input type="text" id="exampleInputName1" className="form-control registration-input-box" placeholder="Name" />
                                                 <input type="email" id="exampleInputEmail1" className="form-control registration-input-box" placeholder="Email" />
                                                 <textarea className="form-control registration-textarea-box" rows="4" placeholder="Message"></textarea>
-                                                <button className="btn btn-custom home-btn-width waves-effect waves-light">Send Detail</button>
+                                                <button className="btn btn-custom home-btn-width waves-effect waves-light">Send Details</button>
                                             </form>
                                         </div>
                                     </div>
@@ -59,15 +59,15 @@ class HomeFour extends React.Component {
 
                 {/* Features Component*/}
                 <Features />
-                
+
                 {/* Descriptions Component*/}
                 <Descriptions />
 
                 {/* Pricing Component*/}
                 <Pricing />
 
-                {/* Team Component*/}
-                <Team />
+                // {/* Team Component*/}
+                // <Team />
 
                 {/* Process Component*/}
                 <Process />
@@ -75,8 +75,8 @@ class HomeFour extends React.Component {
                 {/* Testi Component*/}
                 <Testi />
 
-                {/* Started Component*/}
-                <Started />
+                // {/* Started Component*/}
+                // <Started />
 
                 {/* Blog Component*/}
                 <Blog />
@@ -86,7 +86,7 @@ class HomeFour extends React.Component {
 
                 {/* SocialMedia Component*/}
                 <SocialMedia />
-                
+
                 {/* Footer Component*/}
                 <Footer />
 
@@ -94,7 +94,7 @@ class HomeFour extends React.Component {
                 <FooterLinks />
 
                 {/* Switcher Component*/}
-               <Switcher /> 
+               <Switcher />
         </Aux>
   	);
   }
